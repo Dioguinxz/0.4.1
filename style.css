@@ -1,0 +1,29 @@
+body {
+    margin: 10;
+    padding: 0;
+    color: black;
+    background-color: white;
+    font-size:  medium;
+    }
+    
+    tr:first-child {
+      background-color: black;
+      color: rgb(255, 255, 255);
+      border:none;
+    
+    }
+    
+    td, th {
+      padding: 10px;
+      text-align: start;
+      ;
+    }
+    
+    table {
+      border-collapse: collapse;
+    }
+    
+    tr:last-child {
+      text-decoration: underline;
+      text-decoration-color: blue;
+    }
